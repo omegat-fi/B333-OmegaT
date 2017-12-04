@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_5_r9644:9647" segtype="sentence" srclang="EN"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>If spell checking is activated, spelling mistakes and typos are recognized and can be corrected during translation.</seg>
+      </tuv>
+      <tuv lang="FI" changeid="mmmhaal" changedate="20171204T094021Z" creationid="mmmhaal" creationdate="20171204T094021Z">
+        <seg>Mikäli kieliasun tarkistus on käytössä, kirjoitus- ja lyöntivirheet tunnistetaan, ja niitä voi muokata käännettäessä.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
